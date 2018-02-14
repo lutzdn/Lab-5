@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Info Version="" ClientVersion="2.0" FingerPrint="00242A01-0002-002C-749C-8B0A4913E685" QueryLanguage="0x0409">
+	<FilmWatch DiscSetId="" FilmWatchId="" MethodId="filmwatch.method.pdvd" MethodName="PowerDVD" DateTime="2017/11/18 22:23:06" TypeID="type.dvd" TypeName="DVD" Note="" MarkDeleted="false" Guid="A56BF8D7-77E6-46A0-8A87-3DAA3EB8953C" UpdateTime="2017/11/19 03:23:06"/>
+	<FilmWatch DiscSetId="" FilmWatchId="" MethodId="filmwatch.method.pdvd" MethodName="PowerDVD" DateTime="2017/11/19 00:04:17" TypeID="type.dvd" TypeName="DVD" Note="" MarkDeleted="false" Guid="23B7E0FA-D531-4984-9857-1E6AA0B93F9A" UpdateTime="2017/11/19 05:04:17"/>
+</Info>

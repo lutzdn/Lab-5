@@ -1,0 +1,53 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$SelectAll" count="4" />
+      <entry action="$Undo" count="83" />
+      <entry action="CloseProject" count="1" />
+      <entry action="CollapseSelection" count="2" />
+      <entry action="CommentByLineComment" count="24" />
+      <entry action="Coverage" count="1" />
+      <entry action="Debug" count="3" />
+      <entry action="EditorBackSpace" count="2306" />
+      <entry action="EditorChooseLookupItem" count="45" />
+      <entry action="EditorCopy" count="27" />
+      <entry action="EditorCut" count="58" />
+      <entry action="EditorDelete" count="460" />
+      <entry action="EditorDown" count="245" />
+      <entry action="EditorEnter" count="617" />
+      <entry action="EditorIndentSelection" count="5" />
+      <entry action="EditorLeft" count="330" />
+      <entry action="EditorLeftWithSelection" count="19" />
+      <entry action="EditorLineEnd" count="5" />
+      <entry action="EditorLineStart" count="4" />
+      <entry action="EditorPaste" count="93" />
+      <entry action="EditorRight" count="364" />
+      <entry action="EditorRightWithSelection" count="2" />
+      <entry action="EditorTab" count="129" />
+      <entry action="EditorToggleInsertState" count="1" />
+      <entry action="EditorUp" count="201" />
+      <entry action="FileChooser.GotoJDK" count="2" />
+      <entry action="Find" count="1" />
+      <entry action="GotoDeclaration" count="1" />
+      <entry action="GotoFile" count="1" />
+      <entry action="HideAllWindows" count="1" />
+      <entry action="NewClass" count="7" />
+      <entry action="NewProject" count="7" />
+      <entry action="OpenFile" count="8" />
+      <entry action="RecentFiles" count="1" />
+      <entry action="ReformatCode" count="1" />
+      <entry action="RenameElement" count="6" />
+      <entry action="RenameFile" count="1" />
+      <entry action="Rerun" count="86" />
+      <entry action="Run" count="129" />
+      <entry action="SaveAll" count="42" />
+      <entry action="SearchEverywhere" count="3" />
+      <entry action="ShowProjectStructureSettings" count="1" />
+      <entry action="Stop" count="3" />
+      <entry action="ToggleLineBreakpoint" count="1" />
+      <entry action="ViewBreakpoints" count="3" />
+      <entry action="XDebugger.NewWatch" count="1" />
+      <entry action="XDebugger.SwitchWatchesInVariables" count="1" />
+    </counts>
+  </component>
+</application>

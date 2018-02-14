@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<userSettings>
+		<Global>
+			<setting name="SignUpForDogfoodUrlProd">
+				<value>http://g.live.com/8SESkydrive/EnableDogfood</value>
+			</setting>
+			<setting name="SignUpForDogfoodUrlInt">
+				<value>http://g.live.com/8SESkyDrive/EnableDogfoodINT</value>
+			</setting>
+			<setting name="PrivacyStatementUrlProd">
+				<value>http://go.microsoft.com/fwlink/p/?LinkId=253457</value>
+			</setting>
+			<setting name="PrivacyStatementUrlInt">
+				<value>http://go.microsoft.com/fwlink/p/?LinkId=253457</value>
+			</setting>
+			<setting name="ForumUrlProd">
+				<value>http://go.microsoft.com/fwlink/?LinkID=253562</value>
+			</setting>
+			<setting name="ForumUrlDogFood">
+				<value>http://go.microsoft.com/fwlink/?LinkID=253563</value>
+			</setting>
+			<setting name="ForumUrlInt">
+				<value>http://go.microsoft.com/fwlink/?LinkId=253564</value>
+			</setting>
+			<setting name="HelpUrlProd">
+				<value>http://go.microsoft.com/fwlink/?LinkID=215117</value>
+			</setting>
+			<setting name="HelpUrlInt">
+				<value>http://go.microsoft.com/fwlink/?LinkID=215118</value>
+			</setting>
+			<setting name="ServiceAgreementUrlProd">
+				<value>http://go.microsoft.com/fwlink/?LinkId=215128</value>
+			</setting>
+			<setting name="ServiceAgreementUrlInt">
+				<value>http://go.microsoft.com/fwlink/?LinkId=215129</value>
+			</setting>
+			<setting name="ServerStatusUrlProd">
+				<value>http://go.microsoft.com/fwlink/?LinkId=215120</value>
+			</setting>
+			<setting name="ServerStatusUrlInt">
+				<value>http://go.microsoft.com/fwlink/?LinkId=215121</value>
+			</setting>
+			<setting name="LearnMoreAboutWindowsLiveSQMURLProd">
+				<value>http://g.live.com/1rewlive4startup/ceip</value>
+			</setting>
+			<setting name="LearnMoreAboutWindowsLiveSQMURLInt">
+				<value>http://g.live-int.com/1rewlive4startup/ceip</value>
+			</setting>
+			<setting name="LiveSiteUrlProd">
+				<value>http://go.microsoft.com/fwlink/?LinkID=223554</value>
+			</setting>
+			<setting name="LiveSiteUrlInt">
+				<value>http://go.microsoft.com/fwlink/?LinkID=223556</value>
+			</setting>
+			<setting name="ManageStorageUrlProd">
+				<value>http://go.microsoft.com/fwlink/?LinkID=786513</value>
+			</setting>
+			<setting name="ManageStorageUrlInt">
+				<value>http://g.live-int.com/8SESkydrive/ManageStorage</value>
+			</setting>
+			<setting name="UpgradeUrlProd">
+				<value>http://go.microsoft.com/fwlink/?LinkId=746899</value>
+			</setting>
+			<setting name="UpgradeUrlInt">
+				<value>http://go.microsoft.com/fwlink/?LinkID=687967</value>
+			</setting>
+			<setting name="LatestClientVersionUrlInt">
+				<value>https://g.msn-int.com/1rewlive5skydrive/skydrivesetup</value>
+			</setting>
+			<setting name="LatestClientVersionUrlProd">
+				<value>https://g.msn.com/1rewlive5skydrive/skydrivesetup</value>
+			</setting>
+			<setting name="FeedbackUrlProd">
+				<value>https://go.microsoft.com/fwlink/?LinkId=242275</value>
+			</setting>
+			<setting name="FeedbackUrlInt">
+				<value>https://go.microsoft.com/fwlink/?LinkId=242274</value>
+			</setting>
+			<setting name="RemoteAccessMoreInfoProd">
+				<value>http://g.live.com/8SESkydrive/RemoteAccessHelp</value>
+			</setting>
+			<setting name="RemoteAccessMoreInfoInt">
+				<value>http://g.live-int.com/8SESkydrive/RemoteAccessHelp</value>
+			</setting>
+			<setting name="OfficeMoreInfoProd">
+				<value>http://go.microsoft.com/fwlink/?LinkId=255272</value>
+			</setting>
+			<setting name="OfficeMoreInfoInt">
+				<value>http://go.microsoft.com/fwlink/?LinkId=255271</value>
+			</setting>
+			<setting name="OfficeUpdateMoreInfo">
+				<value>http://go.microsoft.com/fwlink/?LinkId=615232</value>
+			</setting>
+			<setting name="OfficeFileConflictsMoreInfo">
+				<value>http://go.microsoft.com/fwlink/p/?LinkId=735049</value>
+			</setting>
+			<setting name="ChangeListProd">
+				<value>http://go.microsoft.com/fwlink/?LinkId=263764</value>
+			</setting>
+			<setting name="ChangeListInt">
+				<value>http://go.microsoft.com/fwlink/?LinkId=263778</value>
+			</setting>
+			<setting name="UserCid"><value>323f805b4ba25fb5</value></setting><setting name="ProviderOptInEnabled"><value>0</value></setting></Global>
+	</userSettings>
+</configuration>

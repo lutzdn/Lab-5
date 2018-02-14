@@ -1,0 +1,18 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="installed.kotlin.plugin.version" value="1.2.10-release-IJ2017.3-1" />
+    <property name="android-component-compatibility-check" value="1518616015424" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/IdeaProjects/BlackJack&#10;C:/Users/Diana/IdeaProjects/Test&#10;C:/Users/Diana/Documents/IdeaProjects/Lab3/Lab3.iml&#10;C:/Users/Diana/Documents/IdeaProjects/Lab3&#10;C:/Users/Diana/IdeaProjects/Lab3&#10;C:/Program Files/Java/jdk-9.0.1" />
+    <property name="jdk.selected.JAVA_MODULE" value="9.0" />
+    <property name="IJ_BASE_PACKAGE" value="com.company" />
+    <property name="lastTip" value="17" />
+    <property name="file.gist.reindex.count" value="11" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="SearchEveryWhereHistory" value="" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+  </component>
+</application>

@@ -1,0 +1,21 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="debugger.reload.classes" count="14" />
+      <entry feature="execute.Application.Coverage" count="1" />
+      <entry feature="execute.Application.Debug" count="5" />
+      <entry feature="execute.Application.Run" count="215" />
+      <entry feature="ide.help.reference.dialogs.rundebug.Application" count="1" />
+      <entry feature="ideaapp.started" count="12" />
+      <entry feature="project.view.pane.PackagesPane" count="1" />
+      <entry feature="project.view.pane.ProjectPane" count="2" />
+      <entry feature="project.view.pane.Scope.Project Files" count="1" />
+      <entry feature="tips.of.the.day.next" count="7" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
+    </counts>
+  </component>
+</application>

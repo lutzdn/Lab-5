@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LayoutModificationTemplate xmlns:defaultlayout='http://schemas.microsoft.com/Start/2014/FullDefaultLayout' xmlns:start='http://schemas.microsoft.com/Start/2014/StartLayout' xmlns='http://schemas.microsoft.com/Start/2014/LayoutModification' Version='1'>
+  <AppendOfficeSuite/>
+  <AppendOfficeSuiteChoice Choice='Desktop2016'/>
+  <TopMFUApps>
+    <DesktopApplicationTile LinkFilePath='C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\System Tools\Windows Defender.lnk'/>
+    <DesktopApplicationTile LinkFilePath='C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\System Tools\Create USB Recovery.lnk'/>
+  </TopMFUApps>
+</LayoutModificationTemplate>

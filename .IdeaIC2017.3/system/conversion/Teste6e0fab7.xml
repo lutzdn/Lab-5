@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Diana\IdeaProjects\Test\.idea\misc.xml" timestamp="1517411167835" />
+    <file path="C:\Users\Diana\IdeaProjects\Test\.idea\modules.xml" timestamp="1517411167928" />
+    <file path="C:\Users\Diana\IdeaProjects\Test\.idea\workspace.xml" timestamp="1517427213160" />
+    <file path="C:\Users\Diana\IdeaProjects\Test\Test.iml" timestamp="1517411167803" />
+  </project-files>
+</conversion>
+
